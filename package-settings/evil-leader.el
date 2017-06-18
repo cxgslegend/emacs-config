@@ -6,14 +6,18 @@
   (evil-leader/set-key
     "ar" 'ranger
     "ad" 'deer
-    "e" 'find-file
     "bb" 'helm-buffers-list
     "bd" 'kill-buffer
     "ff" 'helm-find-files
     "fs" 'save-buffer
     "fS" 'evil-write-all
+    "fE" 'find-file
     "fed" 'load-dotfile
     "feR" 'reload-dotfile
+    "pp" 'helm-projectile-switch-project
+    "pf" 'helm-projectile-find-file
+    "qq" 'save-buffers-kill-terminal
+    "Q"  'insert-shell-command
     "wh" 'windmove-left
     "wj" 'windmove-down
     "wk" 'windmove-up
@@ -21,6 +25,6 @@
     "ws" 'evil-window-split
     "wv" 'evil-window-vsplit
     "wo" 'delete-other-windows
-    "<SPC>" 'ace-jump-mode))
+    "<SPC>" 'avy-goto-char))
 
 

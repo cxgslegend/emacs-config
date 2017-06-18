@@ -8,4 +8,6 @@
     "SPC b" "buffer"
     "SPC f" "files"
     "SPC f e" "emacs(spacemacs)"
+    "SPC p" "project"
+    "SPC q" "quit"
     "SPC w" "windows"))

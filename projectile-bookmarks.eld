@@ -1,0 +1,1 @@
+("~/Code/solutiondeliverydevelopment/" "~/Desktop/ll/" "/Applications/MAMP/htdocs/" "~/.emacs.d/" "~/Dropbox/Notes/" "~/Desktop/" "~/Dropbox/College Work/CSE 664/Reading Notes/" "~/Documents/c++/" "~/Documents/Notes/" "~/Documents/Java/")
